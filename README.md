@@ -1,3 +1,3 @@
 # Prompt-Recommender
 
-Recommends prompts tuned to your specific task for an LLM
+Recommends prompts fine tuned to your specific task for an LLM
